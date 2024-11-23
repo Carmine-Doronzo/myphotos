@@ -1,0 +1,3 @@
+<h1>Primo progetto in java springboot.</h1>
+<p>Per farlo funzionare creare un database di nome test su phpMyAdmin importare il file database.sql sul database appena creato impostare la porta mySql e andarla a cambiare nel file application.proprierties e impostare la password se presente nella vostra configurazione compilare il tutto da terminale nella cartella del progetto con il comando "mvn clean install".
+Successivamente da terminale nella cartella in cui avete compilato nella directory /target avviare il seguente comando : "java -jar nome_del_file.jar" e andare sul browser all'indirizzo "http://localhost:8080" </p> 
